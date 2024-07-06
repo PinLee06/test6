@@ -7,3 +7,4 @@ c=3
 print(c)
 d=6
 print(6)
+print("master")
